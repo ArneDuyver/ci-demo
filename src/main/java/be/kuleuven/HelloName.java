@@ -9,7 +9,7 @@ public class HelloName {
     }
 
     public HelloName(String naam){
-        this.naam = naam;
+        this.naam = naam+"hihi";
     }
 
     public String getNaam(){
